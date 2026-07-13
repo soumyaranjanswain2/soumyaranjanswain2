@@ -40,7 +40,7 @@ Building scalable, responsive & pixel-perfect web applications with modern techn
 
 📍 Bangalore, India
 
-📧 soumyaranjan8528@gmail.com
+📧 soumyaranjan8428@gmail.com
 
 🌐 https://soumya--portfolio.vercel.app/
 
