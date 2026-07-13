@@ -1,7 +1,11 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="Soumya Banner"/>
 </p>
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;Next.js+Developer;TypeScript+Developer;Building+Beautiful+UI;Always+Learning+New+Things"/>
+
+</p>
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Swain</h1>
 
 <h3 align="center">
@@ -60,19 +64,34 @@ Building scalable, responsive & pixel-perfect web applications with modern techn
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyaranjanswain2&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=soumyaranjanswain2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=soumyaranjanswain2&theme=tokyonight"/>
+<img height="180" src="https://streak-stats.demolab.com?user=soumyaranjanswain2&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyaranjanswain2&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
 # 🌍 Most Used Languages
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjanswain2&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
 
 </p>
 
