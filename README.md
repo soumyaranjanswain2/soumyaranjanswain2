@@ -34,21 +34,29 @@ Building scalable, responsive & pixel-perfect web applications with modern techn
 
 # 🚀 About Me
 
-💼 Frontend Developer with **3.1+ Years of Experience**
 
-⚛️ Specialized in React, Next.js, TypeScript & Tailwind CSS
-
-🎯 Passionate about crafting modern UI/UX
-
-🚀 Love building scalable web applications
-
-📍 Bangalore, India
-
-📧 soumyaranjan8428@gmail.com
-
-🌐 https://soumya--portfolio.vercel.app/
+| | |
+|:--|:--|
+| 💼 Experience | **3.1+ Years** |
+| 🚀 Role | Frontend Developer |
+| ⚛️ Stack | React, Next.js, TypeScript |
+| 🎨 Styling | Tailwind CSS, GSAP |
+| 📍 Location | Bangalore, India |
+| 🌐 Portfolio | https://soumya--portfolio.vercel.app |
+| 📧 Email | soumyaranjan8428@gmail.com |
 
 ---
+## 🔥 Currently Working On
+
+🚀 Real Estate Platform (Next.js)
+
+⚡ Performance Optimization
+
+🎨 GSAP Animations
+
+📱 Responsive UI
+
+📚 Learning Three.js
 
 # 💻 Tech Stack
 
@@ -60,15 +68,7 @@ Building scalable, responsive & pixel-perfect web applications with modern techn
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=soumyaranjanswain2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=soumyaranjanswain2&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -101,34 +101,24 @@ Building scalable, responsive & pixel-perfect web applications with modern techn
 
 | Project | Tech | Live |
 |---------|------|------|
+| 💼 Portfolio Website | React • Next.js | https://soumya--portfolio.vercel.app/ |
 | 🏠 PropertyOTP | Next.js • Tailwind • Node.js | Coming Soon |
 | 🛒 E-Commerce Platform | React • Express • MongoDB | Coming Soon |
-| 💼 Portfolio Website | React • Next.js | https://soumya--portfolio.vercel.app/ |
 | 📊 Admin Dashboard | React • Tailwind | Coming Soon |
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+## 🤝 Let's Connect
 
-<a href="https://github.com/soumyaranjanswain2">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+💼 Open for Frontend Opportunities
 
-<a href="https://linkedin.com/in/soumya1234">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+📧 soumyaranjan8428@gmail.com
 
-<a href="mailto:soumyaranjan8528@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+🌐 https://soumya--portfolio.vercel.app
 
-<a href="https://soumya--portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-</p>
+💼 https://www.linkedin.com/in/soumya1234/
 
 ---
 
@@ -140,6 +130,8 @@ Building scalable, responsive & pixel-perfect web applications with modern techn
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
+
+</p>
